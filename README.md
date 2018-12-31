@@ -1,5 +1,14 @@
 # Spatial-Heterogeneity
 
+## Status
+
+This project is no longer under-development by me. 
+
+## Authors
+
+- Ian Flores Siaca
+- Dr. Miguel A. Acevedo
+
 ## Description
 
 This GitHub Repository contains the code for the following project in which I collaborated with Dr. Miguel Acevedo during the period comprehending between July 2015 and May 2016.The following abstract is for reference only, and doesn't represent the actual status of the project. 
